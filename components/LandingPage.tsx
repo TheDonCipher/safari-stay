@@ -13,7 +13,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onEnterApp, onNavigate }) => 
       <LandingHeader onEnterApp={onEnterApp} onNavigate={onNavigate} />
 
       {/* Hero Section */}
-      <section className="relative min-h-screen flex items-center justify-center text-center bg-cover bg-center" style={{ backgroundImage: "url('https://images.unsplash.com/photo-1548912443-6b5b74b351f7?q=80&w=2940&auto=format&fit=crop')" }}>
+      <section className="relative min-h-screen flex items-center justify-center text-center bg-cover bg-center" style={{ backgroundImage: "url('https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?q=80&w=2940&auto=format&fit=crop')" }}>
         <div className="absolute inset-0 bg-black/50"></div>
         <div className="relative z-10 px-6">
           <h1 className="text-4xl md:text-6xl font-extrabold text-white leading-tight mb-4">
